@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-#
+# xxxxxx
 
 void main (void)
 {
